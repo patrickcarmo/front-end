@@ -1,2 +1,2 @@
 # front-end
-Projects basead on HTML, CSS and JavaScript
+Projects based on HTML, CSS and JavaScript
